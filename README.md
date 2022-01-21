@@ -12,7 +12,7 @@ A software engineer with over four(4) years of work experience developing APIs a
      Email: Stephenkuforijif@gmail.com
      Phone: +2349011912623
 
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephenkuf)](https://github.com/stephenkuf/github-readme-stats&show_icons=true)
+[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephenkuf)](https://github.com/stephenkuf/github-readme-stats&show_icons=true&theme=radical)
 
 
 🌂🍽� languages and tools:
