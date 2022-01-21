@@ -9,9 +9,11 @@ A software engineer with over four(4) years of work experience developing APIs a
 💼 any freelance work? do reach,
 💬 ask me about anything, I am happy to help;
 📫 How to reach me:
+     Email: Stephenkuforijif@gmail.com
+     Phone: +2349011912623
 
-  Email: Stephenkuforijif@gmail.com
-  phone: +2349011912623
+[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephenkuf)](https://github.com/stephenkuf/github-readme-stats)
+
 
 🌂🍽� languages and tools:
 
