@@ -1,13 +1,11 @@
 ### Hi there 👋!
 
 
-I'm Kuforiji Stephen, a passionate self-taught full stack web developer and a freelance software engineer from Nigeria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces and API's. i take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an a-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I'm Kuforiji Stephen, a passionate full stack web developer and a freelance software engineer from Nigeria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces and API's. I take great care in the experience, architecture, and code quality of the things I build.
 
 
-💼 any freelance work? do reach, email @ stephenkuforijif@gmail.com
-💬 ask me about anything, i am happy to help;
+💼 any freelance work? do reach,
+💬 ask me about anything, I am happy to help;
 📫 How to reach me:
 
   Email: Stephenkuforijif@gmail.com
