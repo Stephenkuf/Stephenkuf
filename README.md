@@ -1,9 +1,5 @@
 ### Hi there 👋!
 
-https://user-images.githubusercontent.com/37702333/150492492-5f97f62f-e003-41ac-8c0d-ea8b8788e2f5.png
-
-
-
 
 I'm Kuforiji Stephen, a passionate self-taught full stack web developer and a freelance software engineer from Nigeria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces and API's. i take great care in the experience, architecture, and code quality of the things I build.
 
@@ -19,11 +15,11 @@ I am also an a-source enthusiast and maintainer. I learned a lot from the open-s
 
 🌂🍽� languages and tools:
 
-🛠 Node JS - Express JS , Adonis JS , Nest JS
-🛠 Javascript - Vue JS , React JS
-🛠 PHP- Laravel , Lumen
-🛠 HTML/CSS , Bootstrap.
-🛠 Docker , AWS.
+    🛠 Node JS - Express JS , Adonis JS , Nest JS
+    🛠 Javascript - Vue JS , React JS
+    🛠 PHP- Laravel , Lumen
+    🛠 HTML/CSS , Bootstrap.
+    🛠 Docker , AWS.
 
 
          
