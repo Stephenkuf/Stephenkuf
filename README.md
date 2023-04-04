@@ -3,7 +3,7 @@
 
 I'm Kuforiji Stephen, a passionate full stack web developer and a freelance software engineer from Nigeria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces and API's. I take great care in the design ,  architecture, and code quality of the things I build.
 
-A software engineer with over four(4) years of work experience developing APIs and microservices using NodeJS(Nest js, Express , Adonis), PHP(Laravel, Lumen). I have a solid understanding of design patterns, data structures & algorithms. I enjoy problem solving 😌, late night coding and gaming 😊
+A software engineer with over five (5) years of work experience developing APIs and microservices using NodeJS(Nest js, Express , Adonis), PHP(Laravel, Lumen). I have a solid understanding of design patterns, data structures & algorithms. I enjoy problem solving 😌, late night coding and gaming 😊
 
 
 💼 any freelance work? do reach,
