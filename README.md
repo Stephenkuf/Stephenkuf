@@ -1,7 +1,7 @@
 ### Hi there 👋!
 
 
-I'm Stephen, I write with AI now , And Market shit online "
+I'm Stephen, I create with AI now , And Market  online "
 <!--
 
 
